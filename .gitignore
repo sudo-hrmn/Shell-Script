@@ -1,0 +1,35 @@
+# AWS Credentials and Config
+.aws/
+aws-credentials
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Output files
+output/
+reports/
+*.json.bak
+*.csv.bak
